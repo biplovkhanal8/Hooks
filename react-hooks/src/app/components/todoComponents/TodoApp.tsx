@@ -58,7 +58,7 @@ export default function TodoApp() {
     >
       <div className='flex justify-center mb-10'>
         <h1 className='text-4xl font-extrabold text-center text-gray-800'>
-          Todo App
+          Tasks Details 
         </h1>
       </div>
       
